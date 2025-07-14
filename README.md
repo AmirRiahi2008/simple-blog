@@ -26,14 +26,14 @@ This project is perfect for learning or building a basic content-driven website.
 
 > Dark & modern interface:
 
-![Homepage](./screenshots/screen1.png)  
-![Posts](./screenshots/screen2.png)  
-![Single Post](./screenshots/screen3.png)
+![Homepage](./screenshots/screen1.PNG)  
+![Posts](./screenshots/screen2.PNG)  
+![Single Post](./screenshots/screen3.PNG)
 
 ## Live Demo
 
 Check out the live version of the project here:  
-🔗 [Live on Vercel](https://simpleblog.vercel.app/)
+🔗 [Live on Vercel](https://simple-blog-six-pi.vercel.app/)
 
 ## Installation
 
