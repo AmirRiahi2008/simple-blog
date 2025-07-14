@@ -26,8 +26,9 @@ This project is perfect for learning or building a basic content-driven website.
 
 > Dark & modern interface:
 
-![Homepage](./screenshots/home.png)  
-![Single Post](./screenshots/post.png)
+![Homepage](./screenshots/screen1.png)  
+![Posts](./screenshots/screen2.png)  
+![Single Post](./screenshots/screen3.png)
 
 ## Live Demo
 
