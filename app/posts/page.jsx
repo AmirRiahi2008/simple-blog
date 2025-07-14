@@ -5,6 +5,7 @@ export default function BlogsPage() {
 
   return (
     posts.map(post => <AllPosts
+    key={post.id}
     data={post}
     />)
   );
