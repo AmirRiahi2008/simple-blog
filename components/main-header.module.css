@@ -1,0 +1,45 @@
+.header {
+  background-color: var(--card-color);
+  padding: 2rem 0 1rem;
+  text-align: center;
+  box-shadow: 0 4px 10px rgba(0, 255, 213, 0.1);
+  border-bottom: 1px solid #333;
+}
+
+.title {
+  font-size: 2.5rem;
+  color: var(--primary-color);
+  margin-bottom: 1rem;
+}
+
+.navbar ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  flex-wrap: wrap;
+  padding: 0;
+  margin: 0;
+}
+
+.navLink {
+  text-decoration: none;
+  color: #ccc;
+  font-weight: 500;
+  padding: 0.5rem 1rem;
+  border-radius: var(--radius);
+  transition: all 0.3s ease;
+}
+
+.navLink:hover {
+  background-color: var(--hover-color);
+  color: var(--primary-color);
+}
+
+.active {
+  background-color: var(--primary-color);
+  color: #000;
+  font-weight: bold;
+  padding: 3px 7px;
+  border-radius: 5px;
+}

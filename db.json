@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Why Should You Learn JavaScript?",
+    "slug": "why-learn-javascript",
+    "date": "July 5, 2025",
+    "excerpt": "JavaScript is the main language for web development and learning it is very valuable...",
+    "content": "JavaScript is one of the most popular programming languages in the world. It is used both on the client side and the server side..."
+  },
+  {
+    "id": 2,
+    "title": "10 CSS Tips and Tricks You Should Know",
+    "slug": "css-tips-and-tricks",
+    "date": "June 30, 2025",
+    "excerpt": "In this article, you will learn techniques that will transform the appearance of your projects...",
+    "content": "CSS is more than just colors and sizes. Tricks like using variables, Flexbox, and Grid can make your designs more professional..."
+  },
+  {
+    "id": 3,
+    "title": "Complete Guide to Flexbox in CSS",
+    "slug": "flexbox-guide",
+    "date": "June 26, 2025",
+    "excerpt": "With Flexbox, you can easily arrange elements on the page...",
+    "content": "Flexbox allows you to control the layout of elements along horizontal and vertical axes. This guide covers everything..."
+  },
+  {
+    "id": 4,
+    "title": "5 Free Tools for Web Developers",
+    "slug": "free-web-dev-tools",
+    "date": "June 23, 2025",
+    "excerpt": "These tools help you write better code and develop faster...",
+    "content": "From performance auditing tools like Lighthouse to creating JSON and Mock APIs, there are many tools that make your work easier..."
+  },
+  {
+    "id": 5,
+    "title": "What is React and Why is It Popular?",
+    "slug": "what-is-react",
+    "date": "June 19, 2025",
+    "excerpt": "React is a library for building user interfaces developed by Facebook...",
+    "content": "Its simplicity, speed, and large community have made React one of the most popular front-end technologies. This article explores why..."
+  },
+  {
+    "id": 6,
+    "title": "How to Deploy Your Project on Vercel?",
+    "slug": "deploy-to-vercel",
+    "date": "June 15, 2025",
+    "excerpt": "Vercel is one of the best platforms for hosting Next.js projects...",
+    "content": "With just a few clicks, you can deploy your project quickly and for free on Vercel. This step-by-step guide shows you how..."
+  },
+  {
+    "id": 7,
+    "title": "Next.js vs. Pure React Comparison",
+    "slug": "next-vs-react",
+    "date": "June 10, 2025",
+    "excerpt": "Next.js and React are both used to build user interfaces but have some differences...",
+    "content": "This article reviews the pros, cons, and suitable use cases for Next.js compared to React..."
+  },
+  {
+    "id": 8,
+    "title": "Top 10 VS Code Extensions for Programmers",
+    "slug": "top-vscode-extensions",
+    "date": "June 5, 2025",
+    "excerpt": "These extensions make coding faster, more professional, and enjoyable...",
+    "content": "Extensions like Prettier, ESLint, GitLens, and Live Server help you optimize your development environment..."
+  },
+  {
+    "id": 9,
+    "title": "Getting Started with Tailwind CSS",
+    "slug": "tailwind-css-guide",
+    "date": "June 1, 2025",
+    "excerpt": "Tailwind is a popular utility-first CSS framework that enables rapid design...",
+    "content": "This guide teaches you how to install, configure, and use Tailwind classes to build beautiful interfaces..."
+  },
+  {
+    "id": 10,
+    "title": "5 Sites to Practice Algorithms and Data Structures",
+    "slug": "algorithm-practice-sites",
+    "date": "May 28, 2025",
+    "excerpt": "To prepare for technical interviews, mastering algorithms is essential. These sites help you practice...",
+    "content": "LeetCode, HackerRank, Codeforces, Codewars, and InterviewBit are among the best resources for algorithm practice..."
+  }
+]

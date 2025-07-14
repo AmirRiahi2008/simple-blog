@@ -1,0 +1,66 @@
+.postDetail {
+  background-color: var(--card-color);
+  padding: 3rem 2.5rem;
+  border-radius: var(--radius);
+  margin: 3rem auto 5rem;
+  max-width: 800px;
+  box-shadow:
+    0 4px 15px rgba(0, 255, 213, 0.15),
+    inset 0 0 10px rgba(0, 255, 213, 0.05);
+  color: #ddd;
+  font-family: 'Vazirmatn', sans-serif;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.postDetail:hover {
+  transform: translateY(-8px);
+  box-shadow:
+    0 10px 30px rgba(0, 255, 213, 0.3),
+    inset 0 0 15px rgba(0, 255, 213, 0.1);
+}
+
+.postDetail h2 {
+  font-size: 2.2rem;
+  margin-bottom: 1rem;
+  color: var(--primary-color);
+  text-shadow: 0 2px 4px rgba(0, 255, 213, 0.6);
+  letter-spacing: 0.05em;
+}
+
+.postDetail .date {
+  font-size: 0.9rem;
+  color: var(--muted-color);
+  margin-bottom: 2rem;
+  display: block;
+  font-style: italic;
+  letter-spacing: 0.03em;
+}
+
+.postDetail p {
+  font-size: 1.125rem;
+  line-height: 1.7;
+  color: #ccc;
+  margin-bottom: 1.5rem;
+  text-align: justify;
+  text-shadow: 0 0 2px rgba(0,0,0,0.2);
+}
+
+.postDetail p:last-child {
+  margin-bottom: 0;
+}
+
+/* Optional: Responsive typography */
+@media (max-width: 600px) {
+  .postDetail {
+    padding: 2rem 1.5rem;
+    margin: 2rem 1rem 4rem;
+  }
+
+  .postDetail h2 {
+    font-size: 1.6rem;
+  }
+
+  .postDetail p {
+    font-size: 1rem;
+  }
+}
