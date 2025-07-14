@@ -22,14 +22,6 @@ This project is perfect for learning or building a basic content-driven website.
 - **CSS Modules**: Scoped styling system to avoid class name collisions.
 - **Fake JSON DB**: For simulating post content locally.
 
-## Screenshots
-
-> Dark & modern interface:
-
-![Homepage](./screenshots/screen1.PNG)  
-![Posts](./screenshots/screen2.PNG)  
-![Single Post](./screenshots/screen3.PNG)
-
 ## Live Demo
 
 Check out the live version of the project here:  
