@@ -38,5 +38,3 @@ git clone https://github.com/AmirRiahi2008/simple-blog
 cd simpleblog
 npm install
 npm run dev
-دحئق
-
