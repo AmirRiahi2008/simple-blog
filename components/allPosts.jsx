@@ -1,6 +1,5 @@
 import Link from "next/link";
 import styles from "./allPosts.module.css";
-
 export default function AllPosts({ data }) {
   return (
     <Link href={`/posts/${data.slug}`}>
