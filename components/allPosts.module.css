@@ -40,3 +40,6 @@
   font-size: 0.85rem;
   color: var(--muted-color);
 }
+a{
+  text-decoration:none;
+}
